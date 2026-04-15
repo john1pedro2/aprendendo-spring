@@ -5,7 +5,6 @@ import br.com.jposs.aprendendospring.controller.dtos.UsuarioDTO;
 import br.com.jposs.aprendendospring.infrastructure.entity.Usuario;
 import br.com.jposs.aprendendospring.infrastructure.security.JwtUtil;
 import lombok.RequiredArgsConstructor;
-import org.apache.coyote.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
